@@ -15,9 +15,20 @@
 
 ## A Path through a Neural Network
 - Calculating not Thinking
+- adds weight 
 
 ## Machine Learning is often trial and error
 - Stores data in a corpus
 - constantly testing new data with its calculations to the corpus
 - Makes many guesses
-    - 
+    - Begins at random, then adjusts based on it position with new and old data
+    - keeps guessing and using "right-size" adjustments to continue
+    - nears perfection but never reaches it
+- A Perception requires more Brainpower in the form of deep learning
+
+## From Perception to deep learning
+- Deep Neural Network - Multiple Hidden Layers
+    - Identify locations and people in photos
+    - housing prices
+    - Self Driving cars
+    - Variations in MRI 
