@@ -32,7 +32,7 @@ AI can be a tool to enhance human productivity and judgement. It can aid a human
 | *Accurate | emotion |
 
 ---
-### AI Calculates not thinks
+### Calculates Not Thinks
 
 - AI
   - program to recognize what label and route to correctly identify objects
