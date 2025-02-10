@@ -18,14 +18,13 @@
 - relates data that can represent a straight line
 - ex more spending = more sales
 
-
 ## Logistic Regression
 - when a No,Yes outcome is needed, such as using a sigmoid function
     - ex: comparing hours studied to passing 
 
 - difference
     - Linear : If this increases by X, How much will Y increase
-    - Logistic : If this increases by X, will the value of Y be closer to 0 or 1
+    - Logistic : If this increases by X, will the value of Y be closer t 0 or 1
 
 ## Classical is not obsolete
 - Structured Data
